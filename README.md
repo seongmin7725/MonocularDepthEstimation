@@ -1,1 +1,1 @@
-# MonocularDepthEstimation
+# Monocular Depth Estimation
